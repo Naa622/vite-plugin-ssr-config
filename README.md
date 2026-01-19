@@ -10,7 +10,7 @@ While the plugin is designed to be framework-agnostic, it comes preconfigured fo
 
 ## React Query Support
 
-With built-in **React Query** support, you no longer need to manually define API endpoints in your server-side code. This feature simplifies server-side data fetching and eliminates the need for complex API configurations. You can rely on React Query to fetch and manage data on the client side, and let SSR handle the rendering seamlessly.
+With built-in **React Query** support, you no longer need to manually define API endpoints in your server-side code. This feature simplifies server-side data fetching and eliminates the need for complex  configurations. You can rely on React Query to fetch and manage data on the client side, and let SSR handle the rendering seamlessly.
 
 ## Key Features
 
