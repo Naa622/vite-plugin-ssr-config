@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "repository": "https://github.com/yracnet/vite-plugin-ssr-config.git",
-  "author": "Willyams Yujra <yracnet@gmail.com>",
+  "author": "Willyams Yujra <nasseralhajrii62@hotmail.com>",
   "license": "MIT",
   "workspaces": [
-    "packages/plugin",
-    "packages/examples/basic",
-    "packages/examples/custom"
+    "packages/examples/basic"",
+    ,
+    "
   ]
 }
